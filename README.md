@@ -10,10 +10,11 @@ Hier möchte ich alles nötige für einen erfolgreichen Nachbau meines Kettenoil
 Wie
 - Beschreibungen
 - PCB Layout und Bestückungsplan
-- Firmware mit Anleitung zum aufspielen
+- Firmware
+- Firmware.bin mit Anleitung zum aufspielen
 - STL Dateien der gedruckten Teile
 
-Bei Fragen oder Probleme einfach eine Mail an mich.
+Bei Fragen, Probleme oder Anregungen einfach eine Mail an mich.
 Ich werde versuchen sie Zeitnach zu Beantworten.
 
 GPS-Kettenoiler@web.de
