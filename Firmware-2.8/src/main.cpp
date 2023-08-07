@@ -2490,7 +2490,7 @@ void setup()
   digitalWrite(LedPin, HIGH);
   digitalWrite(oilPin, HIGH);
   // ISR
-  attachInterrupt(digitalPinToInterrupt(U_VCC2), ISR, FALLING); // Respond to falling edges on the pin  //RISING , FALLING
+  //attachInterrupt(digitalPinToInterrupt(U_VCC2), ISR, FALLING); // Respond to falling edges on the pin  //RISING , FALLING
 
   // Hier wird im Vorfeld schon mal der Sensormittelwert gebildet
   digitalWrite(U_Sensor, HIGH);
