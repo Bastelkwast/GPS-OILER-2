@@ -4,6 +4,7 @@ Neue Firmware 2.8!!
 Änderungen:
 - Bug mit der Steuerung des Ölsymbols beseitigt. 
 - Es kann gewählt (im Interface) werden, ob und wie viele Pumpimpulse zu beginn der Fahrt erzeugt werden (Initial Ölung).
+  Die Änderung ist erst nach einem Neustart des Oilers übernommen.
 
 Ich stelle hier meinen GPS-Oiler-2 vor und stelle ihn ausschliesslich für den Privaten Nachbau und nicht für kommerzielle Zwecke zur Verfügung.
 
