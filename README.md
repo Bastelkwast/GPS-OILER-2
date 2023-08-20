@@ -23,7 +23,7 @@ Ich bitte um Verständnis.
 
 ## [Mainboard Rev. 5](docs/Mainboard_Rev5/README.md)
 
-## [Bin Datei aufspielen](docs/Bin/README.md)
+## [Bin Datei aufspielen](docs/FIRMWARE_BIN/README.md)
 
 Bei Fragen einfach eine Mail an mich: GPS-Kettenoiler@web.de
 
