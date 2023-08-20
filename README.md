@@ -27,6 +27,14 @@ Bei Fragen einfach eine Mail an mich: GPS-Kettenoiler@web.de
 
 Ich werde Versuchen sie zeitnah zu Beantworten.
 
+Über eine Information mit euren Erfahrungen würde ich mich sehr freuen.
+
+Nur so kann ich den Oiler verbessern!
+
+Wenn ihr mir Bilder oder Anregungen von eurem Einbau zukommen lasst, und ihr es wünscht, werde ich sie auch anderen zur Verfügung stellen.
+
+Vielleicht wird es dadurch ja noch interessanter für den ein oder anderen.
+
 !! Der Nachbau ist ohne meiner ausdrücklichen Genehmigung nur für Private und nicht für Kommerzielle Zwecke erlaubt !!
 
 !!Der Nachbau und Einbau des Kettenöler und seiner Bauteile erfolgt auf eigenes Risiko und Verantwortung. Ich übernehme keine Haftung!!

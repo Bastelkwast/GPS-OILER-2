@@ -64,4 +64,54 @@ Ich habe zum Verbinden des GPS-Modul und dem OLED mit dem Mainboard ein USB Kabe
 
 ![PCB OBEN](PNG/PCB_OBEN.png)
 
+Und hier mit aufgesetztem WEMOS und DC/DC Wandler. Hatte Probleme mit der Wärmeentwicklung.
+
 ![PCB MIT WEMOS](PNG/MIT_WEMOS.png)
+Der Anschluss oben links ist vom OLED.
+
+Der Taster ist zum zurücksetzen der WIFI Einstellung für den Fall das man sein WIFI Passwort vergessen haben sollte und nicht mehr rankommt.
+
+## Anschlüsse
+
+Masse       = Masse oder Minuspol
+
+Klemme 15   = Zündung( Bei meiner Tracer der Stecker der Sitzbankheizung)
+
+Pumpe       = Plus der Dosierpumpe
+
+Pumpe       =   Minus der Dosierpumpe
+
+3xGND       = GND für GPS,Regensensor.
+
+VCC-2       = 3,3V für den GPS Modul
+
+GPS-RX      = TX des GPS-Modul
+
+Sensor      = Anschluss des Regensensor
+
+## Vor der ersten Inbetriebnahme
+
+Vor der ersten Inbetriebnahme unbedingt noch mal alles kontrollieren ob da alles richtig eingebaut wurde und keine Kurzschlüsse oder Unterbrechungen mehr vorhanden sind.
+
+Wenn das erste mal Spannung angelegt wird, habe ich immer den WEMOS,OLED und das EEPROM abgezogen und erst einmal die Betriebsspannung 5V am WEMOS überprüft um zu sehen das der DC/DC Wandler auch seine 5V richtig ausgibt.
+
+Wenn der Oiler das erste mal in Betrieb genommen wird, erkennt er daß das EEPROM noch unbeschrieben ist und beschreibt es dann mit den Werkseinstellungen automatisch.
+
+Jetzt sollte alles funktionieren.
+
+Es sollte jetzt etwas auf dem Display zu sehen ein. Wenn ja hat alles geklappt.
+
+Glückwunsch!
+
+Wenn nicht, geht die Fehlersuche los.
+
+Sind die 3,3V am WEMOS vorhanden. Wenn nicht ist der WEMOS defekt.
+
+Ist die 3,3V vorhanden, ist WIFI vorhanden. Wenn nicht, wurde die Firmware richtig aufgespielt?
+
+Ist das OLED richtig angeschlossen?
+
+Ist das OLED okay, ist GPS Empfang vorhanden? (kann bis 3 Min dauern. Dazu an einen Ort gehen wo auch Satellitenempfang möglich ist).
+
+## Viel Erfolg beim Nachbau!
+
