@@ -60,8 +60,8 @@ R6,R7,R8            |1KΩ                        |
 Und alles was zum Herstellen einer Leiterplatte benötigt wird.
 Ich habe zum Verbinden des GPS-Modul und dem OLED mit dem Mainboard ein USB Kabel verwendet. Das war günstiger.
 
-![PCB](docs/PCB.png)
+![PCB](PNG/PCB.png)
 
-![PCB OBEN](docs/PCB_OBEN.png)
+![PCB OBEN](PNG/PCB_OBEN.png)
 
-![PCB MIT WEMOS](docs/MIT_WEMOS.png)
+![PCB MIT WEMOS](PNG/MIT_WEMOS.png)
