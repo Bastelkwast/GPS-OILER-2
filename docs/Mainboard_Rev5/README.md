@@ -2,9 +2,9 @@
 
 ![Schaltplan](PDF/SCHALTPLAN.pdf)
 
-![Schaltplan](PDF/LAYOUT.pdf)
+![LAYOUT](PDF/LAYOUT.pdf)
 
-![Schaltplan](PDF/BESTUEKUNGSPLAN.pdf)
+![Bestückungsplan](PDF/BESTUECKUNGSPLAN.pdf)
 
 Der Nachbau und Einbau des Kettenöler und seiner Bauteile erfolgt auf eigenes Risiko und Verantwortung. Ich übernehme keine Haftung.
 
