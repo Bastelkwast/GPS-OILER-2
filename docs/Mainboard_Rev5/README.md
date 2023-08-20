@@ -1,10 +1,10 @@
 # Mainboard Rev.5
 
-![Schaltplan](PDF/SCHALTPLAN.pdf)
+## [Schaltplan](PDF/SCHALTPLAN.pdf)
 
-![LAYOUT](PDF/LAYOUT.pdf)
+## [LAYOUT](PDF/LAYOUT.pdf)
 
-![Bestückungsplan](PDF/BESTUECKUNGSPLAN.pdf)
+## [Bestückungsplan](PDF/BESTUECKUNGSPLAN.pdf)
 
 Der Nachbau und Einbau des Kettenöler und seiner Bauteile erfolgt auf eigenes Risiko und Verantwortung. Ich übernehme keine Haftung.
 
