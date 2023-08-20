@@ -8,4 +8,4 @@ In diesem Video erklärt Fabsenet sehr Verständlich wie man die BIN Datei (Firm
 
 Nochmal vielen Dank für das super Video.
 
-link: https://https://www.youtube.com/watch?v=TrDgyIsYsx4
+link: www.youtube.com/watch?v=TrDgyIsYsx4
