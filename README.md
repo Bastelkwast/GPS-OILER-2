@@ -3,27 +3,30 @@
 Neue Firmware 2.8!!
 
 Änderungen:
-- Bug mit der Steuerung des Ölsymbols beseitigt. 
+
+- Bug mit der Steuerung des Ölsymbols beseitigt.
+
 - Es kann gewählt (im Interface) werden, ob und wie viele Pumpimpulse zu beginn der Fahrt erzeugt werden (Initial Ölung).
   Die Änderung ist erst nach einem Neustart des Oilers übernommen.
 
-Ich stelle hier meinen GPS-Oiler-2 vor und stelle ihn ausschliesslich für den Privaten Nachbau und nicht für kommerzielle Zwecke zur Verfügung.
+Ich bin gerade dabei die Seite umzubauen damit sie übersichtlicher wird.
+Dafür benötige ich noch etwas Zeit.
+Ich bitte um Verständnis.
 
-Der Nachbau für kommerzielle Zwecke ist ohne meine Genehmigung nicht gestattet!!
+## [Beschreibung](docs/Beschreibung/README.md)
 
+## [Nachbau](docs/Nachbau/README.md)
 
-Hier möchte ich alles nötige für einen erfolgreichen Nachbau meines Kettenoiler zur Verfügung stellen.
+## [Vorkenntnisse](docs/Vorkenntnisse/README.md)
 
-Wie
-- Beschreibungen
-- PCB Layout und Bestückungsplan
-- Firmware
-- Firmware.bin mit Anleitung zum aufspielen
-- STL Dateien der gedruckten Teile
+## [Firmware Version 2.7](docs/Firmware_2.7/README.md)
 
-Bei Fragen, Probleme oder Anregungen einfach eine Mail an mich.
-Ich werde versuchen sie zeitnah zu beantworten.
+## [Mainboard Rev. 5](docs/Mainboard_Rev5/README.md)
 
-GPS-Kettenoiler@web.de
+Bei Fragen einfach eine Mail an mich: GPS-Kettenoiler@web.de
 
+Ich werde Versuchen sie zeitnah zu Beantworten.
 
+!! Der Nachbau ist ohne meiner ausdrücklichen Genehmigung nur für Private und nicht für Kommerzielle Zwecke erlaubt !!
+
+!!Der Nachbau und Einbau des Kettenöler und seiner Bauteile erfolgt auf eigenes Risiko und Verantwortung. Ich übernehme keine Haftung!!
