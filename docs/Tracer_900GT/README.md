@@ -1,3 +1,3 @@
 # Einbau in einer Tracer 900 GT
 
-## [Injector](docs/Tracer_900GT/Injector/README.md)
+## [Injector](docs/Injector/README.md)
