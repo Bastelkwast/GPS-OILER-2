@@ -50,6 +50,6 @@ Durch die Langlöcher kann der Injector optimal justiert werden.
 
 ![OLED](PNG/Aufgesetzt_1.png)
 
-Mit der Änderung der Kunststoffröhrchen wird das Ölmbesser auf die Kette übertragen.
+Mit der Änderung der Kunststoffröhrchen wird das Öl besser auf die Kette übertragen.
 
 ![OLED](PNG/Änderung_1.png)
