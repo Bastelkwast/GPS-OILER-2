@@ -16,3 +16,26 @@ Das Blech habe ich mit Hilfe einer CNC Fräse hergestellt.
 
 ![OLED](PNG/Halteblech.png)
 
+Hier sind die Haltenasen die ich mit einem 3D Drucker gedruckt habe
+
+![OLED](PNG/Haltenasen.png)
+
+Blech mit Haltenasen
+
+![OLED](PNG/Halteblech_1.png)
+
+Kettenführung
+
+![OLED](PNG/Kettenführung.png)
+
+Blech mit Kettenführung
+
+![OLED](PNG/Halteblech_2.png)
+
+Injector
+
+![OLED](PNG/Injector.png)
+
+Blech mit Injector
+
+![OLED](PNG/Halteblech_3.png)
