@@ -43,7 +43,7 @@ Der aus PETG gedruckte Dual Injektor.
 
 In den Injektorblock habe ich zwei Stückchen Silikonschlauch eingesetzt. Da hinein kommen dann die Röhrchen die dadurch im Block gehalten werden und das ganze schön Abgedichten.
 
-Die Röschen habe ich aus dem Modellbau Zubehör (Bowdenzug).
+Die Röhrchen habe ich aus dem Modellbau Zubehör (Bowdenzug).
 
 Für den Schlauchanschluss dient ein stück Messingrohr.
 
