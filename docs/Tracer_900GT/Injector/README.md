@@ -9,3 +9,10 @@
 Da ich so wenig wie möglich vom Kettenöler sehen wollte habe ich mich dafür entschieden den Injektor an das vordere Kettenrad zu setzen.
 
 ![OLED](PNG/Bild_1.png)
+
+## Das Halteblech für den Injector
+
+Das Blech habe ich mit Hilfe einer CNC Fräse hergestellt.
+
+![OLED](PNG/Halteblech.png)
+
