@@ -53,5 +53,3 @@ Durch die Langlöcher kann der Injector optimal justiert werden.
 Mit der Änderung der Kunststoffröhrchen wird das Öl besser auf die Kette übertragen.
 
 ![OLED](PNG/Änderung_1.png)
-
-Die Dateien für die Gedruckten und Gefrästen Teile findet ihr unter STL-Dateien/Injector Vorne Tracer 900.
