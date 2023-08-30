@@ -39,3 +39,9 @@ Injector
 Blech mit Injector
 
 ![OLED](PNG/Halteblech_3.png)
+
+Halteblech mit Injector am Motorrad angesetzt
+
+![OLED](PNG/Aufgesetzt.png)
+
+![OLED](PNG/Aufgesetzt_1.png)
