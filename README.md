@@ -25,6 +25,8 @@ Ich bitte um Verständnis.
 
 ## [Bin Datei aufspielen](docs/Firmware_BIN/README.md)
 
+## [Einbauvorschlag](docs/Tracer_900GT/README.md)
+
 Bei Fragen einfach eine Mail an mich: GPS-Kettenoiler@web.de
 
 Ich werde Versuchen sie zeitnah zu Beantworten.
