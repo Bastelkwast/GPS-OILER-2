@@ -34,6 +34,8 @@ Blech mit Kettenführung
 
 Injector
 
+Der Kunststoffblock ist aus PETG Gedruckt und die Röhrchen sind mithilfe eines Tygon Schlauch im Block fest eingesetzt. Um den Injector zu Befestigen sind im Block 3mm Muttern eingesetzt.
+
 ![OLED](PNG/Injector.png)
 
 Blech mit Injector
@@ -42,6 +44,12 @@ Blech mit Injector
 
 Halteblech mit Injector am Motorrad angesetzt
 
+Durch die Langlöcher kann der Injector optimal justiert werden.
+
 ![OLED](PNG/Aufgesetzt.png)
 
 ![OLED](PNG/Aufgesetzt_1.png)
+
+Mit der Änderung der Kunststoffröhrchen wird das Ölmbesser auf die Kette übertragen.
+
+![OLED](PNG/Änderung_1.png)
